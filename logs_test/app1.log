@@ -1,0 +1,20 @@
+2026-03-04 08:00:01 INFO Démarrage du service d'authentification
+2026-03-04 08:00:05 INFO Initialisation des modules système
+2026-03-04 08:01:12 ERROR Échec de la connexion au serveur LDAP
+2026-03-04 08:02:45 WARN Temps de réponse élevé sur le port 389
+2026-03-04 08:03:10 ERROR Échec de la connexion au serveur LDAP
+2026-03-04 08:04:00 INFO Tentative de reconnexion automatique
+2026-03-04 08:05:22 ERROR Échec de la connexion au serveur LDAP
+2026-03-04 08:06:15 WARN Utilisation CPU supérieure à 85%
+2026-03-04 08:07:30 INFO Connexion établie avec succès
+2026-03-04 08:08:05 INFO Utilisateur admin connecté
+2026-03-04 08:09:12 ERROR Accès refusé pour l'utilisateur guest
+2026-03-04 08:10:00 WARN Tentative d'intrusion suspecte détectée
+2026-03-04 08:11:45 INFO Déconnexion de l'utilisateur admin
+2026-03-04 08:12:30 ERROR Échec de la connexion au serveur LDAP
+2026-03-04 08:13:05 INFO Nettoyage du cache terminé
+2026-03-04 08:14:12 ERROR Échec de la connexion au serveur LDAP
+2026-03-04 08:15:00 WARN Latence réseau détectée
+2026-03-04 08:16:45 INFO Synchronisation des données terminée
+2026-03-04 08:17:30 INFO Heartbeat envoyé au superviseur
+2026-03-04 08:18:00 INFO Service en attente de requêtes
