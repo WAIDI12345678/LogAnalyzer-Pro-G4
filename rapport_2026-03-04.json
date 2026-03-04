@@ -1,0 +1,25 @@
+{
+    "metadata": {
+        "date": "2026-03-04 11:51:42",
+        "utilisateur": "WAIDI FATIATH",
+        "os": "Windows",
+        "source": "C:\\Users\\WAIDI FATIATH\\LogAnalyzer-Pro-G4\\LogAnalyzer-Pro-G4\\logs_test"
+    },
+    "statistiques": {
+        "total_lignes": 3,
+        "par_niveau": {
+            "ERROR": 1,
+            "WARN": 1,
+            "INFO": 1
+        },
+        "top5_erreurs": [
+            [
+                "Connexion perdue",
+                1
+            ]
+        ]
+    },
+    "fichiers_traites": [
+        "app1.log"
+    ]
+}
