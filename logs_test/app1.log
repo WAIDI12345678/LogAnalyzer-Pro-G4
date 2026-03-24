@@ -1,3 +1,4 @@
+
 2026-03-04 08:00:01 INFO Démarrage du service d'authentification
 2026-03-04 08:00:05 INFO Initialisation des modules système
 2026-03-04 08:01:12 ERROR Échec de la connexion au serveur LDAP
@@ -18,3 +19,8 @@
 2026-03-04 08:16:45 INFO Synchronisation des données terminée
 2026-03-04 08:17:30 INFO Heartbeat envoyé au superviseur
 2026-03-04 08:18:00 INFO Service en attente de requêtes
+
+2026-03-04 10:00:00 INFO Système démarré
+2026-03-04 10:05:00 ERROR Connexion perdue
+2026-03-04 10:10:00 WARN Mémoire saturée
+
