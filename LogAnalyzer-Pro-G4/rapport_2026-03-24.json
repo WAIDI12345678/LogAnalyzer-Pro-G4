@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "date": "2026-03-24 20:22:33",
+        "utilisateur": "WAIDI FATIATH",
+        "os": "Windows",
+        "source": "C:\\Users\\WAIDI FATIATH\\LogAnalyzer-Pro-G4\\LogAnalyzer-Pro-G4\\logs_test"
+    },
+    "statistiques": {
+        "total_lignes": 16,
+        "par_niveau": {
+            "ERROR": 6,
+            "WARN": 3,
+            "INFO": 7
+        },
+        "top5_erreurs": [
+            [
+                "Connexion perdue",
+                1
+            ],
+            [
+                "Timeout lors de la connexion SQL",
+                1
+            ],
+            [
+                "Table 'users' corrompue",
+                1
+            ],
+            [
+                "Échec de la réparation",
+                1
+            ],
+            [
+                "Impossible de joindre la passerelle 192.168.1.1",
+                1
+            ]
+        ]
+    },
+    "fichiers_traites": [
+        "app1.log",
+        "app2.log",
+        "app3.log"
+    ]
+}
